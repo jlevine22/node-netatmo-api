@@ -12,5 +12,14 @@
     "bluebird": "^2.9.14",
     "lodash": "^3.5.0",
     "request": "^2.53.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.4",
+    "gulp-jslint": "^0.2.2",
+    "gulp-mocha": "^2.0.0",
+    "mocha": "^2.2.1",
+    "nock": "^1.2.0",
+    "should": "^5.2.0"
   }
 }
