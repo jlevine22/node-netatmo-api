@@ -4,7 +4,7 @@ A node.js Netatmo API client that supports promises and callbacks. Read more abo
 
 ## Installation
 ```
-$ npm install https://github.com/jlevine22/node-netatmo-api.git --save
+$ npm install netatmo-api --save
 ```
 
 ## Example Usage
