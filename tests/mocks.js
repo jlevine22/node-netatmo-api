@@ -2,8 +2,6 @@ var nock = require('nock');
 
 var netatmo = nock('https://api.netatmo.net');
 
-netatmo.persist();
-
 /**
  * Successful Client Authorization
  */

@@ -2,6 +2,8 @@ var NetatmoApi = require('../index');
 var should = require('should');
 var mocks = require('./mocks');
 
+mocks.persist();
+
 describe('NetatmoClient', function() {
     describe('NetatmoClient (constructor)', function() {
         it('should return an object when both client id and client secret are passed', function() {

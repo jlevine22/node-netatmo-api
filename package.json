@@ -1,8 +1,12 @@
 {
   "name": "netatmo-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node client for the Netatmo API",
   "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/jlevine22/node-netatmo-api.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
